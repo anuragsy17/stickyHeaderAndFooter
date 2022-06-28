@@ -1,0 +1,47 @@
+.footer {
+    width: 100vw;
+    height: 100px;
+    background-color: #2d3436;
+    display: flex;
+    //justify-content: space-around;
+    //flex-direction: row;
+}
+.text_section{
+    display: flex;
+}
+.footer_text{
+    color: white;
+    margin-right: 200px;
+    
+}
+.copyright_img{
+    width: 20px;
+    height: 20px;
+    margin-top: 28px;
+    margin-right: 5px;
+    margin-left: 10px;
+    
+}
+.contact{
+    margin-right: 410px;
+}
+.contact_us{
+    color: white;
+    margin-bottom: 0;
+    text-align: center;
+}
+.contact_mail{
+    color: white;
+}
+
+.top_btn{
+    height: 50px;
+    width: 60px;
+    margin-top: 20px;
+    font-size: large;
+    color: white;
+    background-color: #e74c3c;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}

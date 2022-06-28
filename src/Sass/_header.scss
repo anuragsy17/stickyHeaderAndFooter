@@ -1,0 +1,28 @@
+.sticky_header {
+    width: 100vw;
+    height: 100px;
+    background-color: #7f8c8d;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+}
+
+.sticky_header img{
+    width: 150px;
+    height: 70px;
+    padding: 14px;
+}
+
+.sticky_header h2{
+    padding: 20px;
+    margin-right: 20px;
+    color: aliceblue;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100vw
+}
+

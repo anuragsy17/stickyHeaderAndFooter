@@ -1,0 +1,95 @@
+.sticky_header {
+  width: 100vw;
+  height: 100px;
+  background-color: #7f8c8d;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  position: fixed;
+  top: 0;
+}
+
+.sticky_header img {
+  width: 150px;
+  height: 70px;
+  padding: 14px;
+}
+
+.sticky_header h2 {
+  padding: 20px;
+  margin-right: 20px;
+  color: aliceblue;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+.body {
+  width: 100vw;
+  height: auto;
+}
+
+.body h1 {
+  padding: 10px;
+}
+
+.footer {
+  width: 100vw;
+  height: 100px;
+  background-color: #2d3436;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.text_section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer_text {
+  color: white;
+  margin-right: 200px;
+}
+
+.copyright_img {
+  width: 20px;
+  height: 20px;
+  margin-top: 28px;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+
+.contact {
+  margin-right: 410px;
+}
+
+.contact_us {
+  color: white;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.contact_mail {
+  color: white;
+}
+
+.top_btn {
+  height: 50px;
+  width: 60px;
+  margin-top: 20px;
+  font-size: large;
+  color: white;
+  background-color: #e74c3c;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=main.css.map */
